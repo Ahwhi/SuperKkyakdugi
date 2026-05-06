@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\franc\\\\Desktop\\\\AhwhiStudio\\\\SuperKkyakdugi\" -Recurse -Filter \"*.cs\")",
-      "Bash(Select-Object -ExpandProperty FullName)"
-    ]
-  }
-}

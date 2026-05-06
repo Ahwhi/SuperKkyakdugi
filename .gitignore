@@ -108,3 +108,8 @@ InitTestScene*.unity*
 # Project-specific resource exclusions
 /Assets/Kkyakdugi/Sprite/
 /Assets/Resources/
+/Assets/Fonts/
+
+# Claude
+.claude/
+CLAUDE.md
