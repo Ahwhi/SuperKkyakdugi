@@ -104,3 +104,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Project-specific resource exclusions
+/Assets/Kkyakdugi/Sprite/
+/Assets/Resources/
